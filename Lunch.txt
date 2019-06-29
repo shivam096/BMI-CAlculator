@@ -1,0 +1,19 @@
+Rice/Plain	1 	120
+Rice/Fried	1 	150
+Chapati	1	60
+Puri	1	75
+Paratha	1	150
+Nan	1	150
+Dal	1 	150
+Sambhar	1 	150
+Curd	1 	100
+Vegetable    	1 	150
+Curry/Meat  	1 	175
+Salad	1 	100
+Papad	1	45
+Cutlet	1	75
+Pickle	1 	30
+Soup/Clear  	1 	75
+Soup/Heavy	1 	75
+Fruit	1 helping	150
+ 	 	

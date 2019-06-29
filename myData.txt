@@ -1,0 +1,10 @@
+Name:Shivam Agarwal 
+Sex:Male 
+Occupation:Student 
+Address:402 A ,Sumitra App 
+E-mail Id:agarwal.shivam07@gmail.com 
+Age:21 
+Height:6.1 
+Weight:96.7 
+BMI:27 
+Reult:Overweight

@@ -1,0 +1,15 @@
+Porridge	1 cup	150
+Jam	1 tsp	30
+Butter	1 tsp	50
+Ghee	1 tsp	50
+Sugar	1 tsp	30
+Biscuit	1	30
+Fried Nuts      	1 cup	300
+Puddings	1 cup	200
+Ice-cream	1 cup	200
+Milk-Shake	1 glass	200
+Wafers	1 pkt	120
+Samosa         	1	100
+Bhel Puri/Pani Puri   	1 helping	150
+Kebab	1 plate	150
+Indian sweets/mithai	1 pc	150

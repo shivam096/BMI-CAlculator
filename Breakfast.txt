@@ -1,0 +1,14 @@
+Egg boiled	1	80
+Egg Poached	1	80
+Egg Fried      	1	110
+Egg Omelet	1	120
+Bread slice	1	45
+Bread & butter	1	90
+Chapati	1	60
+Puri     	1	75
+Paratha         	1	150
+Subji	1 	150
+Idli      	1	100
+Dosa Plain    	1	120
+Dosa Masala	1	250
+Sambhar	1 	150

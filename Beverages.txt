@@ -1,0 +1,12 @@
+Tea/Black/without sugar	1 	10
+Coffee/Black/without sugar	1 	10
+Tea with milk & sugar	1 	45
+Coffee with milk & sugar	1 	45
+Milk without sugar  	1 	60
+Milk with sugar        	1 	75
+Milk with sugar, Horlicks	1 	120
+Fruit Juice, concentrated	1 	120
+Soft Drinks		1 bottle	90
+Beer		1 bottle	200
+Soda		1 bottle	10
+Alcohol neat            	1 peg, small	75
